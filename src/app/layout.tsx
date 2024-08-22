@@ -20,7 +20,7 @@ export default function RootLayout({
 
       <body className={inter.className}>
       <header>
-          <nav className="bg-orange-800  font-mono font-bold flex gap-11 justify-start py-10 ">
+          <nav className="bg-orange-800  font-mono font-bold flex gap-11 justify-start py-5 ">
             <Link href="/chai">Chai </Link>
             
             <Link href="/accordion">Accordion</Link>

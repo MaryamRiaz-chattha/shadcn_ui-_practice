@@ -38,6 +38,7 @@ function accordionpage() {
 </Accordion>
 
     </main>
+    
     <AlertDialog>
   <AlertDialogTrigger>Order chai</AlertDialogTrigger>
   <AlertDialogContent>
